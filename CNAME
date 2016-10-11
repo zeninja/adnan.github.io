@@ -1,4 +1,1 @@
-type: CNAME
-host: radnan.com
-answer: zeninja.github.io
-TTL: 300
+
